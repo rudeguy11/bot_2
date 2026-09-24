@@ -14,7 +14,7 @@
   "owner": "rudegu_y",
   "ai": {
     "enabled": true,
-    "model": "gemini-2.5-flash-native-audio-preview-12-2025",
+    "model": "gemini-3.5-flash",
     "apiKeyEnv": "GEMINI_API_KEY"
   },
   "position": {
