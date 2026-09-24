@@ -14,7 +14,7 @@
   "owner": "rudegu_y",
   "ai": {
     "enabled": true,
-    "model": "gemini-3.5-flash",
+    "model": "gemini-3.8-flash",
     "apiKeyEnv": "GEMINI_API_KEY"
   },
   "position": {
