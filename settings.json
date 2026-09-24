@@ -1,13 +1,13 @@
 {
   "name": "rudeguy`s bot",
   "bot-account": {
-    "username": "pampa",
+    "username": "bot_1",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "rudeguy_21.aternos.me",
-    "port": 35903,
+    "ip": "oneblocksurviva-VWKW.aternos.me",
+    "port": 62776,
     "version": "1.20.1",
     "try-creative": false
   },
